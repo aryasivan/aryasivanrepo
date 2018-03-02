@@ -1,4 +1,4 @@
 # aryasivanrepo
 To learn about git
-version control system..two types
-centralised version control system and decentralised version control system
+version control system.It has two types
+Centralised version control system and Decentralised version control system
